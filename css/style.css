@@ -39,3 +39,11 @@ body {
 		display: none
 	}
 }
+.ant{
+	color: #0EE379;
+	font-size: 60px;
+	margin-top: 275px;
+	margin-left: -220px;
+	text-decoration: none;
+	position: absolute;
+}
